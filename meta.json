@@ -1,3 +1,26 @@
 {
-  "schema": {}
+  "prompts": {
+    "pluginName": {
+      "type": "string",
+      "required": true,
+      "label": "项目名称"
+    },
+    "description": {
+      "type": "string",
+      "required": true,
+      "label": "项目描述"
+    },
+    "author": {
+      "type": "string",
+      "label": "作者"
+    },
+    "homepage": {
+      "type": "string",
+      "label": "主页"
+    },
+    "keyword": {
+      "type": "string",
+      "label": "搜索关键词"
+    }
+  }
 }
