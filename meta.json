@@ -3,12 +3,12 @@
     "pluginName": {
       "type": "string",
       "required": true,
-      "label": "项目名称"
+      "label": "插件名称"
     },
     "description": {
       "type": "string",
       "required": true,
-      "label": "项目描述"
+      "label": "插件描述"
     },
     "author": {
       "type": "string",
